@@ -3,16 +3,15 @@
 ## Danh sách lớp/nhóm
 https://docs.google.com/spreadsheets/d/1vSbAXgmw8uKdlxHQh2x2jZi2TzjDsIbkCp3FdBI4gQs/edit?usp=sharing
 
+<p align="center">
+<img src="https://github.com/nesso99/int3507-2017/blob/master/ethereum-group-8/img/howtowork.PNG?raw=true"/>
+<br/>
+<i>Source: Introducing Ethereum and Solidity</i>
+</p>
 
-<center> ![](https://user-images.githubusercontent.com/14819179/32156473-3b9cc172-bd70-11e7-8f44-9c2104d3fd53.PNG)
 
-*Hình 1: Cách hoạt động của chuỗi khối [4]* </center>
 
-<center> 
 
-![](https://uphinhnhanh.com/images/2017/10/30/value.png)
-
-*Hình 1: Cách hoạt động của chuỗi khối [4]* 
 
 </center>
 
