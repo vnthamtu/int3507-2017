@@ -8,9 +8,13 @@ https://docs.google.com/spreadsheets/d/1vSbAXgmw8uKdlxHQh2x2jZi2TzjDsIbkCp3FdBI4
 
 *Hình 1: Cách hoạt động của chuỗi khối [4]* </center>
 
-<center> ![](https://uphinhnhanh.com/images/2017/10/30/value.png)
+<center> 
 
-*Hình 1: Cách hoạt động của chuỗi khối [4]* </center>
+![](https://uphinhnhanh.com/images/2017/10/30/value.png)
+
+*Hình 1: Cách hoạt động của chuỗi khối [4]* 
+
+</center>
 
 ## Viết báo cáo
 Các nhóm viết báo cáo bằng cách fork repo này, rồi tạo thư mục với tên nhóm. Trong thư mục đó sẽ chứa file readme.md là báo cáo của nhóm. Như vậy các nhóm sẽ viết báo cáo bằng markdown. Trong thư mục này có thể chứa code, slides, và các tài liệu liên quan khác. 
